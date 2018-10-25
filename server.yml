@@ -1,3 +1,4 @@
+---
 # install/uninstall with win_package
 - name: download the 7-Zip package
   win_get_url:
